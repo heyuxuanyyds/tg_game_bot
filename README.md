@@ -1,2 +1,2 @@
-# tg_game_bot
-telegram games
+一个使用telegram机器人和cloudflare部署的游戏机器人
+部分地方由ai生成
